@@ -1,2 +1,4 @@
 hello world
-test notepad 
+test notepad
+汉字显示测试
+123456###### 
