@@ -1,7 +1,7 @@
 ## English
 
-just test
+just for test
 
 ## 中文
 
-测试
+这是一个测试
