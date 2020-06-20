@@ -3,5 +3,4 @@ test notepad
 汉字显示测试
 123456######
 
-
 vim可以在windows下直接输入汉字
