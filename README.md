@@ -1,4 +1,4 @@
-# test_git
+# git_test
 ## English
 just for test
 ## 中文
