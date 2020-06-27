@@ -1,10 +1,9 @@
 ## oh-my-zsh 主题
 
-candy
+#### candy
 
-##### pygmalion
+#### pygmalion
 
-##### dallas
+#### af-magic
 
-### af-magic
-
+### dallas
